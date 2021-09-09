@@ -14,7 +14,8 @@ public class ProbaGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Проба Git");
+        System.out.println("первая версия программы");
+        System.out.println("вторая версия программы");
     }
     
 }
